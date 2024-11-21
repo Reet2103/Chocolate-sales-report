@@ -29,7 +29,9 @@ Chocolate Types: Dark chocolate had the highest sales, followed by milk and whit
 Using bookmarks, buttons, and selections for the filter pane made the report super interactive and user-friendly. This approach really brought the data to life and made it easy to explore different aspects of the sales data. 🌟
 
 Feel free to reach out if you have any questions or want to discuss about this project! 
+
 email id: reetbhardwaj2103@gmail.com
+
 linkedin: https://www.linkedin.com/in/reet-bhardwaj-9b6b42249/
 
 
